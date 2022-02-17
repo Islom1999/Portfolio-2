@@ -1,3 +1,3 @@
 # Portfolio-2
 
-https://islomkarimov-portfolio-two.netlify.app/
+[Saytga tashrif buyurish](https://islomkarimov-portfolio-two.netlify.app/)
